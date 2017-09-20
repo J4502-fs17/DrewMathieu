@@ -1,0 +1,53 @@
+
+img {
+  border: none;
+}
+
+p {
+  color: black;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', Georgia, "Times New Roman", sans-serif;
+}
+
+body {
+  background-color: #FF8A00;
+}
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.caption {
+  font-family: 'Catamarin', Georgia, "Times New Roman", serif;
+  font-style: italic;
+  text-align: right;
+  margin-top: 5px;
+}
+
+#nav {
+  padding: 0;
+}
+
+#nav li {
+  list-style-type: none;
+}
+
+#nav a:link {
+  display: block;
+  color: orange;
+  background-color: black;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Roboto Slab', Helvetica, Georgia, serif;
+  padding: 4px;
+  text-decoration: none;
+}
+
+#nav a:hover, #nav a:active {
+  background-color: brown;
+  text-decoration: underline;
+}
