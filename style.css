@@ -34,3 +34,22 @@ p {
     font-size: 1em;
     margin-bottom: 0.8em;
 }
+
+.title {
+    margin-top: 1.5em;
+    margin-bottom: 0.7em;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo {
+    border-radius: 5%;
+    margin-left: 0.5em;
+    height: 3em;
+}
+
+.caption {
+    font-size: 0.7em;
+    text-align: right;
+    margin-top: 0;
+    font-style: italic;
+}
